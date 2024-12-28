@@ -361,6 +361,20 @@
   
     
       <url>
+            <loc>http://localhost:1313/buhian/</loc>
+            <lastmod>2023-08-04T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/buhian/ipb-road-sa-filipino/</loc>
+            <lastmod>2023-08-04T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/uman/009/</loc>
             <lastmod>2023-08-02T00:00:00+00:00</lastmod>
           </url>
@@ -403,7 +417,14 @@
   
     
       <url>
-            <loc>http://localhost:1313/sa-madamba/</loc>
+            <loc>http://localhost:1313/buhian/babalik/</loc>
+            <lastmod>2023-04-25T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/buhian/sa-madamba/</loc>
             <lastmod>2023-04-11T00:00:00+00:00</lastmod>
           </url>
     
@@ -412,6 +433,13 @@
       <url>
             <loc>http://localhost:1313/tlw/014/</loc>
             <lastmod>2023-01-16T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/buhian/gabi-sa-campus/</loc>
+            <lastmod>2022-12-30T00:00:00+00:00</lastmod>
           </url>
     
   
@@ -440,6 +468,13 @@
       <url>
             <loc>http://localhost:1313/tlw/010/</loc>
             <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/buhian/naiiyak-din-ang-sansinukob/</loc>
+            <lastmod>2022-11-14T00:00:00+00:00</lastmod>
           </url>
     
   
@@ -543,6 +578,13 @@
   
     
       <url>
+            <loc>http://localhost:1313/buhian/ang-maglakad-sa-ulan/</loc>
+            <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/lilim/029/</loc>
             <lastmod>2022-06-19T00:00:00+00:00</lastmod>
           </url>
@@ -587,6 +629,13 @@
       <url>
             <loc>http://localhost:1313/lilim/025/</loc>
             <lastmod>2022-05-19T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/buhian/bawat-dahong-namamaalam/</loc>
+            <lastmod>2022-05-09T00:00:00+00:00</lastmod>
           </url>
     
   
