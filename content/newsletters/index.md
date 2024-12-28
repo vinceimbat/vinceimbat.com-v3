@@ -3,7 +3,7 @@ title: Newsletters
 showDate: false
 showTableOfContents: false
 ---
-## Uman
+### Uman (monthly) — January 2022 to Present (23 issues)
 
 Subscribe to my monthly newsletter called _**Uman**_.
 
