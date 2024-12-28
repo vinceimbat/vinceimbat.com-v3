@@ -14,3 +14,6 @@ Habang naglalakad ako, pinapanood ako ng mga hollow blocks, punit-punit na sako 
 Tumayo ako sa tabi ng matayog na puno ng acacia. Humarap sa kadiliman. Ibinaba ng kaunti ang shorts sa harapan at nagsimulang magdilig.
 
 Payapa ang lahat ngayong gabi sa Madamba. Payapa. Payapang-payapa.
+
+***
+Tignan ang orihinal sa [talahardin](https://talahardin.vinceimbat.com/sa-madamba).
