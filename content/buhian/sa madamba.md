@@ -3,6 +3,7 @@ title: Sa Madamba
 date: 2023-04-11
 aliases:
   - /poems/sa-madamba
+  - /sa-madamba
 ---
 Tahimik na tahimik dito sa Madamba ngayon. Walang marinig kundi ang sipol ng tren sa malayo na bumibiyak sa katahimikang pinagpipiyestahan ng mga kulisap at palaka.
 
