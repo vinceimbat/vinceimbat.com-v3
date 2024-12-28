@@ -2,19 +2,13 @@
 
 I'm a Los Baños-based walker, photographer, and writer in three languages.
 
-My poems and essays are explorations on the possibilities of practicing a creative, inquiring, and liberative spirituality.
+My poems and essays are explorations on how a creative, inquiring, and liberative spirituality might be practiced in the Philippines.
 
-Most of my writings begin as short inklings gathered during walks. I collect, cultivate, and publish these seeds of thought through a digital archive I call *[talahardin](talahardin.vinceimbat.com)*.
-
-Some walks I've done in the past include:
-- 2022 June 9–10: [The Los Baños to San Pablo walk](tlw/018)
-- 2023 April 20 and 27: "Nasa Labas ang Ili" (Home is Out There) guided walk
-- 2023 December 4–10: [Roots ྾ Gravel: A Week-long Walk of Los Baños](rxg)
-- 2024 January 15–21: [Tall Tales: Baguio Walk No. 1](tt1)
+Most of my writings begin as inklings gathered during walks. I keep these seeds of thought in a digital archive I call *[talahardin](talahardin.vinceimbat.com)*.
 
 ***
 
-Every first week of the month, I send an email missive called _**[Uman](uman)**_. It's a distillation of my latest thoughts on spirituality, walking, writing, and photography.
+Every first week of the month, I send an email missive called _**[Uman](uman)**_. It's a distillation of my current thoughts on spirituality, walking, writing, and photography.
 
 Consider subscribing. It's free and you can unsubscribe anytime.
 
