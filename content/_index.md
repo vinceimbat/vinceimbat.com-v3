@@ -4,7 +4,7 @@ I'm a Los Baños-based walker, photographer, and writer in three languages.
 
 My poems and essays are explorations on how a creative, inquiring, and liberative spirituality might be practiced in the Philippines.
 
-Most of my writings begin as inklings gathered during walks. I keep these seeds of thought in a digital archive I call *[talahardin](talahardin.vinceimbat.com)*.
+Most of my writings begin as inklings gathered during walks. I keep these seeds of thought in a digital archive I call *[talahardin](https://talahardin.vinceimbat.com/)*.
 
 ***
 
