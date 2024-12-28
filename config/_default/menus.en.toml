@@ -27,7 +27,7 @@
 
 [[main]]
   name = "Notes"
-  urls = "https://talahardin.vinceimbat.com"
+  url = "https://talahardin.vinceimbat.com/"
   weight = 40
 
 [[main]]
