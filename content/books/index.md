@@ -1,9 +1,10 @@
 ---
+title: Books
 showDate: false
 showTableOfContents: false
 ---
 
-# so we must meet apart
+## so we must meet apart
 
 ![swmma cover](so-we-must-meet-apart.png)
 

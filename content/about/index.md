@@ -1,8 +1,9 @@
 ---
+title: About
 showDate: false
 showTableOfContents: false
 ---
-# I’m a Los Baños-based walker, photographer, and writer in three languages, focused on exploring a creative, inquiring, and liberative spirituality.
+## I’m a Los Baños-based walker, photographer, and writer in three languages, focused on exploring a creative, inquiring, and liberative spirituality.
 
 ![Vince Imbat at ANWW20](images/anww20-vinceimbat.jpg)
 
