@@ -76,15 +76,15 @@ My Pangasinan poem ["Gawat"](https://tldtd.org/poet/vince-imbat/) and its transl
 
 ## Awards
 
-My collection of Pangasinan poems called "Bëltangën Tayo'y Këlpa" (Cuth Through This Fog) won in the first Gawad F. Sionil Jose in poetry in 2024.
+My collection of Pangasinan poems called "Bëltangën Tayo'y Këlpa" (Cut Through This Fog) won in the first [Gawad F. Sionil Jose](https://www.facebook.com/share/p/15RLmH2MBB/) in 2024.
 
-My essay entitled "Ikurit Ko'y Sali-salik ëd Sayan Dalin: Pitoran Akar" (I Will Write My Feet on This Land: Seven Walks) was the grandprize winner of the 2024 Gawad Bienvenido Lumbera in Pangasinan Personal Essay.
+My essay entitled "Ikurit Ko'y Sali-salik ëd Sayan Dalin: Pitoran Akar" (I Will Write My Feet on This Land: Seven Walks) was the grandprize winner of the [2024 Gawad Bienvenido Lumbera](https://www.facebook.com/share/p/15y2bEbCH2/) in Pangasinan Personal Essay.
 
 ## Fellowships
 
 - Ikalawang Saling Panitik: Bienvenido Lumbera Seminar-Palihan sa Pagsasalin
-- 20th Ateneo National Writers Workshop (ANWW20)
-- 17th Palihang Rogelio Sicat (PRS17)
+- [20th Ateneo National Writers Workshop](https://www.facebook.com/share/p/1BGYG4y87E/) (ANWW20)
+- [17th Palihang Rogelio Sica](https://www.facebook.com/share/p/1GtkxEiq2Y/) (PRS17)
 
 ## Jiyū Shūkyō (自由宗教)
 
