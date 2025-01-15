@@ -438,6 +438,13 @@
   
     
       <url>
+            <loc>http://localhost:1313/essays/2022-annual-review/</loc>
+            <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/buhian/gabi-sa-campus/</loc>
             <lastmod>2022-12-30T00:00:00+00:00</lastmod>
           </url>
@@ -672,8 +679,6 @@
             <loc>http://localhost:1313/uman/001/</loc>
             <lastmod>2022-02-02T00:00:00+00:00</lastmod>
           </url>
-    
-  
     
   
     
@@ -953,6 +958,8 @@
             <loc>http://localhost:1313/essays/self-forgetfulness/</loc>
             <lastmod>2019-11-29T00:00:00+00:00</lastmod>
           </url>
+    
+  
     
   
     
