@@ -5,7 +5,21 @@
     
       <url>
             <loc>http://localhost:1313/</loc>
-            <lastmod>2024-11-03T00:00:00+00:00</lastmod>
+            <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/essays/2024-annual-review/</loc>
+            <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/essays/</loc>
+            <lastmod>2025-01-15T00:00:00+00:00</lastmod>
           </url>
     
   
@@ -201,13 +215,6 @@
     
       <url>
             <loc>http://localhost:1313/essays/2023-annual-review/</loc>
-            <lastmod>2024-01-05T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/essays/</loc>
             <lastmod>2024-01-05T00:00:00+00:00</lastmod>
           </url>
     

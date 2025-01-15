@@ -22,4 +22,4 @@ Jesa laid out a few of my Los Baños photographs at critical intervals in the zi
 
 The zine was published under [Bangkô](https://www.facebook.com/bangko.collective).
 
-Limited print copies were first sold at the Better Living Through Xeroxography (BLTX) event at Sikat Studio, Tomas Morato, Quezon City, last August 3, 2024. The zine is now out of print, but you can [purchase a digita copy via Gumroad.](https://vinceimbat.gumroad.com/l/apart)
+Limited print copies were first sold at the Better Living Through Xeroxography (BLTX) event at Sikat Studio, Tomas Morato, Quezon City, last August 3, 2024. The zine is now out of print, but you can [purchase a digital copy via Gumroad.](https://vinceimbat.gumroad.com/l/apart)
