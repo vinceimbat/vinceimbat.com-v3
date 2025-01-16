@@ -5,7 +5,7 @@ showTableOfContents: false
 ---
 ## I’m a Los Baños-based walker, photographer, and writer in three languages, exploring a creative, inquiring, free, and liberative spirituality.
 
-![Vince Imbat at ANWW20](images/anww20-vinceimbat.jpg)
+![Vince Imbat headshot](images/20250116-053928-headshot.jpg)
 
 ## Contact or Follow
 
