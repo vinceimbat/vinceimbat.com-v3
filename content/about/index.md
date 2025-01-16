@@ -11,7 +11,6 @@ showTableOfContents: false
 
 - Email: [vince@vinceimbat.com](mailto:vince@vinceimbat.com)
 - Instagram: [@vinceimbat](https://www.instagram.com/vinceimbat/)
-- Threads: [@vinceimbat](https://www.threads.net/@vinceimbat)
 
 ***
 
