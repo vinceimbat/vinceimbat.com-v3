@@ -1,14 +1,14 @@
 <div style="margin: 0 auto; max-width: 600px; width: 90%; text-align: left; box-sizing: border-box;">
 
-I'm a Los Baños-based walker, photographer, and writer in three languages.
+## I'm a Los Baños-based walker, photographer, and writer in three languages.
 
-My poems and essays are explorations on how a creative, inquiring, and liberative spirituality might be practiced in the Philippines.
+My poems and essays are explorations on how a creative, inquiring, free, and liberative spirituality might be practiced in the Philippines.
 
 Most of my writings begin as inklings gathered during walks. I keep these seeds of thought in a digital archive I call *[talahardin](https://talahardin.vinceimbat.com/)*.
 
 ***
 
-Every first week of the month, I send an email missive called _**[Uman](uman)**_. It's a distillation of my current thoughts on spirituality, walking, writing, and photography.
+Every first week of the month, I send an email newsletter called _**[Uman](uman)**_. Each email is a distillation of my current thinking on spirituality, walking, writing, and photography.
 
 Consider subscribing. It's free and you can unsubscribe anytime.
 

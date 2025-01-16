@@ -9,7 +9,7 @@ showTableOfContents: false
 
 Subscribe to my monthly newsletter called _**Uman**_.
 
-"Uman" is the Pangasinan word for change. I started it to keep track of the monthly “changes” I undergo in my projects, studies, and goals but it became this exercise in essay writing that weaves spirituality, walking, writing, and photography.
+"Uman" is the Pangasinan word for change. I started it to keep track of the monthly changes I undergo in my projects, studies, and goals but it became this exercise that weaves spirituality, walking, writing, and photography in an essay.
 
 Consider subscribing. It's free. Unsubscribe any time.
 
@@ -64,9 +64,9 @@ Check the _**Uman**_ archives [here](uman).
 
 ### The Long Walk (occasional) — October 2022 to October 2024 (37 issues)
 
-_**The Long Walk**_ is a newsletter I sent occasionally. It contains new or work-in-progress essays, poems, short notes, and photographs.
+_**The Long Walk**_ is a newsletter I sent occasionally. It contained new or work-in-progress essays, poems, short notes, and photographs.
 
-Check the _**The Long Walk**_ [here](tlw).
+Check the _**The Long Walk**_ archives [here](tlw).
 
 ### Tall Tales: Baguio Walk No. 1  — January 15 to 21, 2024 (5 issues)
 
