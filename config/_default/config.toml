@@ -13,3 +13,6 @@ summaryLength = 0
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[build]
+timeout = "60000ms" # Increase timeout to 60 seconds
