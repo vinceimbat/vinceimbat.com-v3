@@ -1,8 +1,8 @@
 ---
-title: "[R྾G] Day 07 — Ilaya, Ilawod"
+title: (RxG) Day 07 Ilaya, Ilawod
 date: 2023-12-10
 aliases:
-  - /roots-x-gravel-day-07-ilaya-ilawod
+  - /roots-x-gravel-day-07-ilaya-ilawod/
 ---
 ![Slash and burn](images/20231210-092849-rxg-slash-and-burn.jpg)
 

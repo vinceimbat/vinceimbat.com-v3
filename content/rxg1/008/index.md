@@ -1,8 +1,8 @@
 ---
-title: "[R྾G] Day 08 — Root ྾ Gravel is Done"
+title: (RxG) Day 08 Root x Gravel is Done
 date: 2023-12-11
 aliases:
-  - /roots-x-gravel-day-08-done
+  - /roots-x-gravel-day-08-done/
 ---
 ![Peeking cat](images/20231208-082053-rxg-peeking-cat.jpg)
 

@@ -1,5 +1,5 @@
 ---
-title: "[R྾G] Day 04 — Being Home"
+title: (RxG) Day 04 Being Home
 date: 2023-12-07
 aliases:
   - /roots-x-gravel-day-04-being-home

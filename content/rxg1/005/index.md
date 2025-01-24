@@ -1,8 +1,8 @@
 ---
-title: "[R྾G] Day 05 — The Baths"
+title: RxG Day 05 The Baths
 date: 2023-12-08
 aliases:
-  - /roots-x-gravel-day-05-the-baths
+  - /roots-x-gravel-day-05-the-baths/
 ---
 December 08, 2023
 

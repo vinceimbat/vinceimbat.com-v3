@@ -1,8 +1,8 @@
 ---
-title: Lilim 006 — A Walk Around HEAL
+title: (Lilim 006) A Walk Around HEAL
 date: 2021-06-07
 aliases:
-  - /a-walk-around-heal
+  - /a-walk-around-heal/
 ---
 I thought the road will never end.
 

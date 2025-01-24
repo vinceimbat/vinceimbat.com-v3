@@ -2,7 +2,7 @@
 title: Doing Afternoon Fieldworks
 date: 2019-04-29
 aliases:
-  - /doing-afternoon-fieldworks
+  - /doing-afternoon-fieldworks/
 ---
 Field notes and pen strapped on my bike carrier
 

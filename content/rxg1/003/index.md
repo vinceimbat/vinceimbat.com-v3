@@ -1,8 +1,8 @@
 ---
-title: "[R྾G] Day 03 — Riceworld"
+title: (RxG) Day 03 Riceworld
 date: 2023-12-06
 aliases:
-  - /roots-x-gravel-day-03-riceworld
+  - /roots-x-gravel-day-03-riceworld/
 ---
 December 06, 2023
 

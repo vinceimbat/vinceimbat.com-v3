@@ -1,8 +1,8 @@
 ---
-title: "[R྾G] Day 06 — Ichthys"
+title: (RxG) Day 06 Ichthys
 date: 2023-12-09
 aliases:
-  - /roots-x-gravel-day-06-ichthys
+  - /roots-x-gravel-day-06-ichthys/
 ---
 December 09, 2023
 
