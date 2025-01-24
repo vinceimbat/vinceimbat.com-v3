@@ -212,7 +212,7 @@ Here, at Joseph C. Madamba, sunrise shines the best, or so I heard. I walked pas
 
 ![The Carillon](images/20231205-111238-rxg-the-carillon.jpg)
 
----
+***
 
 Jose R. Velasco Avenue → Kanluran Road → Jasmin → Doña Aurora → Heliconia Street → Melanio A. Gapud → Jose D. Drilon Jr. → Domingo M. Lantican Avenue → Makiling → Felix O. Chinte → Valentin Sajor → Rosario Cortes → Banuyo → Tindalo Street → Juan V. Pancho → Getulio B. Viado → Joseph C. Madamba → Archibald R. Ward → Manuel L. Roxas → Mariano M. Mondonedo Avenue → Harold Cuzner Royal Palm Avenue → Andres P. Aglibut Avenue → Jose M. Capinpin
 

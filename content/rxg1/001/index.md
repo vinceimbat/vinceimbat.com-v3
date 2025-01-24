@@ -54,10 +54,10 @@ These stores, perhaps inherited from the Chinese (but we call them the Spanish w
 
 ![Locked gate](images/04-locked-gate.jpg)
 
----
+***
 Here at Mt. Data Street, the white, fat dog who once stood out from all the others is now overrun by scabies. He frequently sits and turns his upper body behind his back to scratch the scabies with his mouth. He sits on clear, pristine roads, cleaned by house owners. Here in LB, the street segment in front of your house is yours. You park your car in front of it if you don't have a garage. If you own no car, this is still an unspoken rule: you clean the segment of that road. Walkers like me will forever thank you for it.
 
----
+***
 
 Tiny dogs often bark at me when I walk here. They constantly remind me that I can't have a dog unless I want my life to get more complicated. The night I left Pangasinan to relocate to Los Baños, I left two dogs at our family's house in Pangasinan. I will never see one of them again.
 
@@ -71,13 +71,13 @@ When I left that room after two months of renting and finding the unit I am now 
 
 ![Two cats](images/05-two-cats.jpg)
 
----
+***
 
 It is 7 a.m. now. I've been walking for 30 minutes. I hear the sound of the train from afar. Perhaps this is the first train to arrive today. A train arrives at 7 in the morning and 7 in the evening, with others arriving intermittently in between. Of course, the train from Manila and traverses Laguna, bound to as far as Bicol, has been passing by Los Baños for over a century. When I arrived here in 2021, there was no train, however. It only resumed operation this year, if I'm not mistaken.
 
 When I first heard the train one morning, I was too ignorant I thought it was the water pipe in our bathroom, which sounded similar when broken. Another time, I mistook it for the sound of our blender. Only after seeing the train one evening while walking at IPB Road and hearing the same sound did I finally figure out what is too obvious to many.
 
----
+***
 
 It rained yesterday—torrents of it. So, I wasn't expecting all this sun. Often, LB gives a lot of sun briefly for 30 minutes in the early morning before it rains for the entire day. The brief sun we are given in the morning is a gift. We have to wake up early just to have our clothes dried. When I see clouds beginning to move fast, I rush to the clothesline.
 

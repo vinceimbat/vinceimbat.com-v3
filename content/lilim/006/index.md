@@ -14,7 +14,7 @@ On the right side of the road were several houses, many of them clustered togeth
 
 This place is silent, I told myself—a perfect place to build a farm.
 
-\*\*\*
+***
 
 I was already the only passenger in the tricycle when we entered this never-ending road. I paid extra for the driver to bring me directly to HEAL, the permaculture farm I was visiting. We left town full—three inside the main carriage then two outside, along with the driver, who had to move a seat forward towards the motor’s gasoline tank to accommodate both of us behind him.
 
