@@ -3,7 +3,7 @@
   publish = "public"
 
 [build.environment]
-HUGO_VERSION = "0.139.3"
+HUGO_VERSION = "0.139"
 HUGO_THEMESDIR = "../.."
 HUGO_THEME = "repo"
 TZ = "UTC+8"
