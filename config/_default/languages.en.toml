@@ -4,7 +4,7 @@ languageDirection = "ltr"
 weight = 1
 
 title = "Vince Imbat"
-copyright = "A JOURNAL OF EXISTENTIAL CRISIS BY <ins>**[VINCE IMBAT](/)**</ins> SINCE 2014."
+# copyright = "A JOURNAL OF EXISTENTIAL CRISIS BY <ins>**[VINCE IMBAT](/)**</ins> SINCE 2014."
 
 [params]
   dateFormat = "2 January 2006"
@@ -15,11 +15,11 @@ copyright = "A JOURNAL OF EXISTENTIAL CRISIS BY <ins>**[VINCE IMBAT](/)**</ins> 
 [params.author]
   # name = "Vince Imbat"
   # image = "img/author.jpg"
-  # headline = "Hi, I'm Vince Imbat."
+  # headline = "I'm only human"
   # bio = "I'm a Los Baños-based photographer, walker, and writer in three languages exploring how a creative and liberative spirituality could be practiced in the Philippines."
   # links = [
-  #   { email = "mailto:vince@vinceimbat.com" },
-  #   { link = "vinceimbat.com/" },
+  #   { email = "mailto:hello@your_domain.com" },
+  #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },
@@ -35,7 +35,7 @@ copyright = "A JOURNAL OF EXISTENTIAL CRISIS BY <ins>**[VINCE IMBAT](/)**</ins> 
   #   { google = "https://www.google.com/" },
   #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
   #   { hashnode = "https://username.hashnode.dev" },
-  #   { instagram = "https://instagram.com/vinceimbat" },
+  #   { instagram = "https://instagram.com/username" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
